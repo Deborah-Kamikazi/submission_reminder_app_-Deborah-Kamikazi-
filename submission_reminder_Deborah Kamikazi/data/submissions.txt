@@ -1,9 +1,0 @@
-John Doe,submitted
-Jane Smith,pending
-Alice Johnson,submitted
-Bob Brown,pending
-Eve Davis,pending
-Chris Lee,submitted
-Nina Patel,pending
-Omar Rizvi,submitted
-Lila White,pending
